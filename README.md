@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Candidate kit
+
 
 Read in this order:
 
@@ -22,9 +21,5 @@ uvicorn app.main:app --port 8000 --reload
 ```
 MongoDB **6.0 or newer** is required (the grader uses 7.0). MongoDB Atlas free tier (M0) works.
 
-## Submit
-A public Git repository with `app/main.py`, `requirements.txt`, `REVIEW.md`, `DECISIONS.md` and a short `README.md`.
-No `.env`, no secrets, no Dockerfile.
-=======
-# HROne-Assesment-
->>>>>>> origin/main
+# HROne-Assessment
+
